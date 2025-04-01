@@ -30,7 +30,8 @@
 'yury@yury-virtual-machine:~/HW/8-01$ git config --global user.name YuryShelukhin'
 'yury@yury-virtual-machine:~/HW/8-01$ git config --global user.email yysg@yandex.ru'
 ![статус до коммита](https://github.com/YuryShelukhin/HW/8-01/blob/main/img/1-1-6.png)
-
+ 7-11
+![добавление к отслеживанию](https://github.com/YuryShelukhin/HW/8-01/blob/main/img/1-7-11.png)
 
 
 ---
