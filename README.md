@@ -36,6 +36,9 @@ yury@yury-virtual-machine:~/HW/8-01$ git config --global user.email yysg@yandex.
 
 <img src = "img/1-1-6.png" width = 100%>
 7-11
+<img src = "img/116.png" width = 100%>
+
+7-11
 
 ![добавим отслеживание](https://github.com/YuryShelukhin/8-01HW/blob/master/img/1-7-11.png)
 
