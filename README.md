@@ -42,7 +42,7 @@ yury@yury-virtual-machine:~/HW/8-01$ git config --global user.email yysg@yandex.
 ![добавим отслеживание](https://github.com/YuryShelukhin/8-01HW/blob/master/img/1-7-11.png)
 
 Коммит после решения
-
+[ссылка](https://github.com/YuryShelukhin/8-01HW/commit/5a9fb555da4e44d335ad0420a4604ae2c14e55e4)
 
 ---
 
