@@ -26,22 +26,21 @@
 ## Решение 1
 
 1-6
-'yury@yury-virtual-machine:~/HW/Fork-sample$ cd ~/HW/8-01'
-yury@yury-virtual-machine:~/HW/8-01$ git init
-yury@yury-virtual-machine:~/HW/8-01$ git config --global user.name YuryShelukhin
-yury@yury-virtual-machine:~/HW/8-01$ git config --global user.email yysg@yandex.ru
+cd ~/HW/8-01  
+git init  
+git config --global user.name YuryShelukhin  
+git config --global user.email yysg@yandex.ru
 
 ![статус до коммита](https://github.com/YuryShelukhin/8-01HW/blob/master/img/1-1-6.png?raw=true)
 
-7-11
+7-11  
+добавим отслеживание
 
 <img src = "img/1-1-6.png" width = 100%>
 
-<img src = "img/116.png" width = 100%>
 
-![добавим отслеживание](https://github.com/YuryShelukhin/8-01HW/blob/master/img/1-7-11.png)
 
-Коммит после решения
+Коммит после решения  
 [ссылка](https://github.com/YuryShelukhin/8-01HW/commit/5a9fb555da4e44d335ad0420a4604ae2c14e55e4)
 
 ---
