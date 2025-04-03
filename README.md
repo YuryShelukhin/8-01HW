@@ -21,12 +21,12 @@
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
-```
+
 
 ## Решение 1
 
 1-6
-yury@yury-virtual-machine:~/HW/Fork-sample$ cd ~/HW/8-01
+'yury@yury-virtual-machine:~/HW/Fork-sample$ cd ~/HW/8-01'
 yury@yury-virtual-machine:~/HW/8-01$ git init
 yury@yury-virtual-machine:~/HW/8-01$ git config --global user.name YuryShelukhin
 yury@yury-virtual-machine:~/HW/8-01$ git config --global user.email yysg@yandex.ru
