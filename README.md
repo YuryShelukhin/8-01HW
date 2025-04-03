@@ -1,7 +1,7 @@
 # Домашнее задание к занятию "`Git`" - `Шелухин Юрий`
 
 
-### Задание 1
+## Задание 1
 
 **Что нужно сделать:**
 
@@ -23,7 +23,7 @@
 
 ```
 
-**Решение**
+## Решение 1
 
 1-6
 yury@yury-virtual-machine:~/HW/Fork-sample$ cd ~/HW/8-01
@@ -33,14 +33,15 @@ yury@yury-virtual-machine:~/HW/8-01$ git config --global user.email yysg@yandex.
 
 ![статус до коммита](https://github.com/YuryShelukhin/8-01HW/blob/master/img/1-1-6.png?raw=true)
 
+7-11
 
 <img src = "img/1-1-6.png" width = 100%>
-7-11
+
 <img src = "img/116.png" width = 100%>
 
-7-11
-
 ![добавим отслеживание](https://github.com/YuryShelukhin/8-01HW/blob/master/img/1-7-11.png)
+
+Коммит после решения
 
 
 ---
