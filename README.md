@@ -135,6 +135,18 @@ git push origin master
 git checkout -b conflict  
 2.  
 <img src = "img/4-2" width =60%>
-3.
+3-4.  
+git push origin master  
+5.   
+<img src = "img/4-5" width =60%>
+6-7.  
+<img src = "img/4-7" width =60%>
+
+Ссылка на граф коммитов после решения  
+[ссылка]
+
+
+
+
 
 
