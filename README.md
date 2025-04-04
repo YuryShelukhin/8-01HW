@@ -87,6 +87,14 @@ git config --global user.email yysg@yandex.ru
 
 ## Решение 3.
 
+1-3
+git add .
+git status
+git commit -am 'dev commit 1'
+git push origin dev
+Изменяем файл, несколько раз комиттим и пушим
+
+
 
 
 
