@@ -52,17 +52,17 @@ git config --global user.email yysg@yandex.ru
 
 ## Решение 2
 
-1-2
-
+1-2.
 <img src = "img/2-1-2.png" width = 100%>
 
 3.
-
 <img src = "img/2-3.png" width = 100%>
 
 4.
+<img src = "img/2-4.png" width = 100%>
 
-
+Коммит после решения  
+[ссылка]()
 
 
 
