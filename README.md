@@ -87,26 +87,26 @@ git config --global user.email yysg@yandex.ru
 
 ## Решение 3.
 
-1-3.
+1-3.  
 <img src = "img/3-1-3.png" width =60%>
-git add .
-git status
-git commit -am 'dev commit 1'
-git push origin dev
-Изменяем файл, несколько раз комиттим и пушим
-4.
-git branch -v
-git checkout master
-5.
-vim main.sh
-git add .
-git commit -am 'commit 25 master'
-git push origin master
-6.
-git merge dev
-7.
-git commit -am 'commit 26 master'
-git push origin master
+git add .  
+git status  
+git commit -am 'dev commit 1'  
+git push origin dev  
+Изменяем файл, несколько раз комиттим и пушим  
+4.  
+git branch -v   
+git checkout master  
+5.  
+vim main.sh  
+git add .  
+git commit -am 'commit 25 master'  
+git push origin master  
+6.  
+git merge dev  
+7.  
+git commit -am 'commit 26 master'  
+git push origin master  
 
 Ссылка на граф коммитов после решения  
 [ссылка](https://github.com/YuryShelukhin/8-01HW/network)
