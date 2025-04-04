@@ -134,16 +134,18 @@ git push origin master
 1.  
 git checkout -b conflict  
 2.  
-<img src = "img/4-2" width =60%>
+<img src = "img/4-2.png" width =60%>
 3-4.  
 git push origin master  
 5.   
-<img src = "img/4-5" width =60%>
+<img src = "img/4-5.png" width =60%>
 6-7.  
-<img src = "img/4-7" width =60%>
+<img src = "img/4-7.png" width =60%>
 
 Ссылка на граф коммитов после решения  
-[ссылка]
+[ссылка](https://github.com/YuryShelukhin/8-01HW/network)
+
+<img src = "img/4-graf.png" width =60%>
 
 
 
