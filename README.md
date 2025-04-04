@@ -90,11 +90,12 @@ git config --global user.email yysg@yandex.ru
 1-3.  
 <img src = "img/3-1-3.png" width =60%>
 git add .  
-git status  
+git status 
+git checkout -b dev  
 git commit -am 'dev commit 1'  
 git push origin dev  
 Изменяем файл, несколько раз комиттим и пушим  
-4.  
+4. 
 git branch -v   
 git checkout master  
 5.  
