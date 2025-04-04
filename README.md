@@ -35,7 +35,7 @@ git config --global user.email yysg@yandex.ru
 7-11  
 добавим отслеживание
 
-<img src = "img/1-1-6.png" width = 100%>
+<img src = "img/1-1-6.png" width = 60%>
 
 
 Коммит после решения  
@@ -53,13 +53,13 @@ git config --global user.email yysg@yandex.ru
 ## Решение 2
 
 1-2.
-<img src = "img/2-1-2.png" width = 100%>
+<img src = "img/2-1-2.png" width = 60%>
 
 3.
-<img src = "img/2-3.png" width = 100%>
+<img src = "img/2-3.png" width = 60%>
 
 4.
-<img src = "img/2-4.png" width = 100%>
+<img src = "img/2-4.png" width = 60%>
 
 Коммит после решения  
 [ссылка](https://github.com/YuryShelukhin/8-01HW/commit/9907d3be05a9698f4ef948dd64de2597b55d6bab)
@@ -90,11 +90,12 @@ git config --global user.email yysg@yandex.ru
 1-3.  
 <img src = "img/3-1-3.png" width =60%>
 git add .  
-git status  
+git status 
+git checkout -b dev  
 git commit -am 'dev commit 1'  
 git push origin dev  
 Изменяем файл, несколько раз комиттим и пушим  
-4.  
+4.   
 git branch -v   
 git checkout master  
 5.  
@@ -128,6 +129,12 @@ git push origin master
 
 В качестве ответа на задание прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
 
-## Рещение 4
+## Решение 4
 
-1.
+1.  
+git checkout -b conflict  
+2.  
+<img src = "img/4-2" width =60%>
+3.
+
+
